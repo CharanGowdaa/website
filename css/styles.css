@@ -1,0 +1,114 @@
+#title{
+  background-color: #FFCAD4;
+}
+h1{
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  text-align: left;
+}
+.Container-fluid{
+  padding: 3% 15%;
+}
+body{
+  font-family: "Ubuntu"
+}
+h3{
+  font-weight: bold;
+  text-align: center;
+}
+p{
+  text-align: center;
+  font-family: "Ubuntu"
+  color:#1D24CA;
+}
+#features{
+  padding: 7% 15%;
+  text-align: center;
+    left:100px;
+    right:100px;
+    top:-50px;
+    z-index:2;
+}
+}
+
+.navbar-brand{
+  font-size: 3rem;
+  font-weight: bold;
+  color: #5E1675;
+}
+.nav-link{
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #EE4266;
+}
+.navbar{
+  padding-bottom: 4rem;
+}
+.button-inline{
+  padding: 2% 2% 2% 0%;
+  margin-left: 2%;
+  margin-top: 5%;
+
+}
+.tittle-image{
+  width: 100%;
+  transform: rotate(25deg);
+  left:40px;
+  right:40px;
+  top:40px;
+  z-index:1;
+
+}
+.icon{
+  color: #265073;
+}
+.icon:hover{
+  color: #FF9843;
+}
+#testimonials{
+  background-color: #FFE6E6;
+  text-align: center;
+  padding: 3% 15%;
+  color: #6420AA;
+}
+.test{
+  border-radius: 50%;
+}
+#press{
+  background-color:
+  text-align: center;
+  padding-bottom: 5%;
+
+
+}
+.press-logo{
+  width:15%;
+  margin:20px 20px 20px 20px;
+}
+h2{
+
+}
+#pricing{
+  text-align: center;
+  padding:75px;
+}
+#cta{
+  text-align: center;
+  background-color:#FFE6E6 ;
+}
+#cta.hover{
+}
+
+
+
+.card-header{
+  background-color: #387ADF;
+}
+.card-body{
+  background-color: #FFE6E6;
+}
+.down{
+  background-color: blue;
+}
